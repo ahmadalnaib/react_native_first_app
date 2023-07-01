@@ -2,9 +2,11 @@ const { StyleSheet } = require("react-native");
 
 const styles=StyleSheet.create({
   title:{
-    fontSize:24,
-    color:'blue' 
-  }
+    fontSize:32,
+    color:'#4681a3' ,
+    fontWeight:'bold',
+
+  },
 })
 
 
