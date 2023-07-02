@@ -95,5 +95,71 @@
   "lat": 43.723,
   "lon": 10.3966
   }
-  }
+  },
+  {
+    "id": 5,
+    "name": "Leaning Tower of Pisa",
+    "city": "Pisa",
+    "country": "Italy",
+    "entry_price": "$20",
+    "address": "Piazza del Duomo, 56126 Pisa PI, Italy",
+    "opening_time": "9:00 AM",
+    "closing_time": "07:00 PM",
+    "categories": [
+    "Popular"
+    ],
+    "images": [
+    "https://cdn.mos.cms.futurecdn.net/QF5qpbogF6JCsuogypL3Fd.jpg",
+    "https://juliasalbum.com/wp-content/uploads/2019/04/leaning-tower-of-Pisa-Italy.jpg",
+    "https://i.pinimg.com/originals/9d/d9/47/9dd947df69dfb08fc55218c1eecad7ce.jpg"
+    ],
+    "coordinates": {
+    "lat": 43.723,
+    "lon": 10.3966
+    }
+    },
+    {
+      "id": 6,
+      "name": "Leaning Tower of Pisa",
+      "city": "Pisa",
+      "country": "Italy",
+      "entry_price": "$20",
+      "address": "Piazza del Duomo, 56126 Pisa PI, Italy",
+      "opening_time": "9:00 AM",
+      "closing_time": "07:00 PM",
+      "categories": [
+      "Popular"
+      ],
+      "images": [
+      "https://cdn.mos.cms.futurecdn.net/QF5qpbogF6JCsuogypL3Fd.jpg",
+      "https://juliasalbum.com/wp-content/uploads/2019/04/leaning-tower-of-Pisa-Italy.jpg",
+      "https://i.pinimg.com/originals/9d/d9/47/9dd947df69dfb08fc55218c1eecad7ce.jpg"
+      ],
+      "coordinates": {
+      "lat": 43.723,
+      "lon": 10.3966
+      }
+      },
+      {
+        "id": 7,
+        "name": "Leaning Tower of Pisa",
+        "city": "Pisa",
+        "country": "Italy",
+        "entry_price": "$20",
+        "address": "Piazza del Duomo, 56126 Pisa PI, Italy",
+        "opening_time": "9:00 AM",
+        "closing_time": "07:00 PM",
+        "categories": [
+        "Popular"
+        ],
+        "images": [
+        "https://cdn.mos.cms.futurecdn.net/QF5qpbogF6JCsuogypL3Fd.jpg",
+        "https://juliasalbum.com/wp-content/uploads/2019/04/leaning-tower-of-Pisa-Italy.jpg",
+        "https://i.pinimg.com/originals/9d/d9/47/9dd947df69dfb08fc55218c1eecad7ce.jpg"
+        ],
+        "coordinates": {
+        "lat": 43.723,
+        "lon": 10.3966
+        }
+        }
   ]
