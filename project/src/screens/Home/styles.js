@@ -9,6 +9,10 @@ margin:32 ,
     fontSize:20,
     marginVertical:18
   },
+
+  row:{
+    flexDirection:'row' ,
+  }
 })
 
 export default styles;
