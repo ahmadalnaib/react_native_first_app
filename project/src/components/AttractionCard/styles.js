@@ -4,11 +4,11 @@ const width= window.width;
 
 const styles=StyleSheet.create({
   card:{
-marginRight:16,
 padding:4 ,
 borderWidth:1,
 borderColor:'#e2e2e2',
 borderRadius:15,
+marginBottom:12
 
   },
   image:{

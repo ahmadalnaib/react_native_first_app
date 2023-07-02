@@ -12,6 +12,7 @@ margin:32 ,
 
   row:{
     flexDirection:'row' ,
+    flexWrap:'wrap'
   }
 })
 
